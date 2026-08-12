@@ -10,4 +10,5 @@ test("TC001-Login to HRMS Application", async ({ page }) => {
     await obj.waitStatement();
     await obj.logout();
     await obj.waitStatement();
+    console.log("Execution Completed");
 });
