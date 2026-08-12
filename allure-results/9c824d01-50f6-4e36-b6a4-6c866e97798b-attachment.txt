@@ -1,0 +1,8 @@
+Application is opened successfully
+Waited for 3 sec
+Login is done successfully
+Waited for 3 sec
+Employee Added Successfully
+Waited for 3 sec
+Logout is done successfully
+Waited for 3 sec

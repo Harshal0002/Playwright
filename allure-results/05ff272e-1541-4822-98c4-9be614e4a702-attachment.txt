@@ -1,0 +1,4 @@
+Application is opened successfully
+Waited for 3 sec
+Login is done successfully
+Waited for 3 sec
